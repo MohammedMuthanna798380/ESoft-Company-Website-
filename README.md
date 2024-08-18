@@ -1,1 +1,3 @@
-# ESoft-Company-Website-
+# ESoft-Company-Website
+
+### Used PHP for backend
