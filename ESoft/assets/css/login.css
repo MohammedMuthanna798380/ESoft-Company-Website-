@@ -1,0 +1,9 @@
+.form-check .form-check-input {
+  float: none;
+  margin-left: 0.5rem;
+}
+
+.login {
+  padding: 60px 0;
+  overflow: hidden;
+}
